@@ -29,13 +29,23 @@ git clone https://github.com/ruodou233/domain-explorer.git ~/.claude/skills/doma
 
 对你的 Agent 说「帮我了解 XX 领域」「我想入门 XX」即可，选择速览 / 入门 / 深入三档深度。
 
-## 反馈
+## 反馈与作者
 
-发现问题或有改进想法，欢迎提 issue，或通过作者账号提醒：
+这个 skill 我长期维护。如果你有修改方案、发现问题、或者改出了更好的版本，欢迎通过以下任一渠道找到我：
 
+- GitHub：本仓库提 issue 或 PR
 - 小红书：错误乱码
 - 微信公众号：能工智人错误乱码
 - B站：若逗道人
+
+## 相关 Skill 推荐
+
+<!-- 本表由维护脚本生成，勿手工编辑 -->
+- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：智慧圆桌：11 位思想家并行独立分析你的决策
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：把模糊的产品想法梳理成可开发、可验收的 SPEC.md
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：中文去 AI 味：逐条检测 AI 生成痕迹并给修改建议
+
+完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 
 ## License
 
