@@ -1,6 +1,6 @@
 # domain-explorer 领域探索器 Skill
 
-一个给 Claude Code / Codex 等 AI Agent 用的领域速通 Skill：帮你快速建立对一个陌生领域的全景认知，产出可交互的知识地图（或 Markdown 版报告）。
+很多人问我为什么学各种领域都这么快，所以我把核心技巧开源出来。这个 skill 四线并行采集一个陌生领域的历史演化、竞争格局、专家共识与争议、实践信号，帮你在几分钟内建立全景认知，而不是花几周慢慢摸索。
 
 ## 它怎么工作
 
@@ -41,9 +41,9 @@ git clone https://github.com/ruodou233/domain-explorer.git ~/.claude/skills/doma
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：智慧圆桌：11 位思想家并行独立分析你的决策
-- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：把模糊的产品想法梳理成可开发、可验收的 SPEC.md
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：中文去 AI 味：逐条检测 AI 生成痕迹并给修改建议
+- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：拉一桌 AI 专家并行辩论，重大决策不再只听一面之词
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：AI 产品经理帮你把模糊想法打磨成可落地的实现方案
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill，逐条检测痕迹并给修改建议
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 
