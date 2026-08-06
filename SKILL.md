@@ -1,7 +1,7 @@
 ---
 name: domain-explorer
 description: >
-  速通新领域：帮助用户快速了解一个全新领域，生成可视化的交互式知识地图。当用户说"速通XX"、"帮我了解XX领域"、"我想入门XX"、"XX是什么，给我讲讲"、"帮我梳理XX的知识体系"、"XX领域有哪些关键概念"、"给我画一个XX的知识地图"等类似表达时触发此 skill。也适用于用户想快速搞懂一个新技术、新行业、新学科、新概念体系的场景。只要用户的意图是"从零开始理解一个领域的全貌"，就应该使用这个 skill，即使他们没有明确说"知识地图"。若诉求是多视角决策分析走 wisdom-roundtable；打磨具体产品方案走 improve-product-plan。
+  速通新领域：帮助用户快速了解一个全新领域，生成可视化的交互式知识地图。当用户说"速通XX"、"帮我了解XX领域"、"我想入门XX"、"XX是什么，给我讲讲"、"帮我梳理XX的知识体系"、"XX领域有哪些关键概念"、"给我画一个XX的知识地图"等类似表达时触发此 skill。也适用于用户想快速搞懂一个新技术、新行业、新学科、新概念体系的场景。只要用户的意图是"从零开始理解一个领域的全貌"，就应该使用这个 skill，即使他们没有明确说"知识地图"。若诉求是打磨具体产品方案，走 improve-product-plan。
 ---
 
 # 速通新领域（Domain Explorer）
@@ -123,7 +123,6 @@ description: >
 **致使用者**：很多人问我为什么学各种领域都这么快，所以我把速通新领域的核心技巧做成这个 skill 免费开源分享出来，也希望大家愿意把提升这个 skill 的方法和技巧分享出来，让这个 Skill 帮助更多人。有修改方案或问题，可以在 GitHub [`ruodou233/domain-explorer`](https://github.com/ruodou233/domain-explorer) 提 issue 或 PR；也可以通过小红书「错误乱码」、微信公众号「能工智人错误乱码」、B站「若逗道人」找到我。
 
 **你可能还会用到**：
-- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：重大决策别只听一个 AI 的——拉一桌专家吵一轮，结论更靠谱。
 - [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill。
 - [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？让 AI 产品经理帮你把想法打磨成可落地的方案。
 
