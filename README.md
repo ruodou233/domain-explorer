@@ -1,6 +1,15 @@
 # domain-explorer 领域探索器 Skill
 
-很多人问我为什么学各种领域都这么快，所以我把核心技巧开源出来。这个 skill 四线并行采集一个陌生领域的历史演化、竞争格局、专家共识与争议、实践信号，帮你在几分钟内建立全景认知，而不是花几周慢慢摸索。
+很多人问我为什么学各种领域都这么快，所以我把核心技巧开源出来。这个 skill 帮你给陌生的技术、行业、学科或概念体系画一张地图：它怎么发展到今天，有哪些路线，专家在争什么，实际干这行的人又怎么看。先看懂来龙去脉，再决定自己往哪钻。
+
+## 什么时候拿出来用
+
+- **从零入门**：“我想了解机器人领域，先帮我建立整体认识。”从关键问题和发展路线讲起，把零散名词放回各自的位置，知道接下来该学什么。
+- **看懂一个行业**：“储能行业有哪些玩家，各自在解决什么问题？”把主要路线、参与者和差异放在一起，方便继续研究某家公司或某项技术。
+- **弄清专家为什么吵起来**：“关于大模型推理能力，大家的分歧到底在哪？”分别看各方主张和依据，再对照实践中已经发生的事。
+- **补上熟悉领域的盲区**：“我会用数据库，但想系统了解不同数据库为什么会出现。”沿着旧问题、新解法和新代价往下走，把会用的东西串成知识体系。
+
+对 Agent 说“帮我了解 XX 领域”或“我想入门 XX”，可以选择速览、入门、深入三档深度。
 
 ## 它怎么工作
 
@@ -25,10 +34,6 @@ git clone https://github.com/ruodou233/domain-explorer.git ~/.claude/skills/doma
 
 克隆到对应的 skill 目录，或在 prompt 中引用 `SKILL.md` 全文即可。
 
-## 使用
-
-对你的 Agent 说「帮我了解 XX 领域」「我想入门 XX」即可，选择速览 / 入门 / 深入三档深度。
-
 ## 反馈与作者
 
 这个 skill 我长期维护。如果你有修改方案、发现问题、或者改出了更好的版本，欢迎通过以下任一渠道找到我：
@@ -41,8 +46,8 @@ git clone https://github.com/ruodou233/domain-explorer.git ~/.claude/skills/doma
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：AI 产品经理帮你把模糊想法打磨成可落地的实现方案
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill，逐条检测痕迹并给修改建议
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：中文去 AI 味：文章、演讲稿、口播和产品文案，改完还像你自己写的
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 
