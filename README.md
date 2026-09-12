@@ -1,4 +1,6 @@
-# domain-explorer 领域探索器 Skill
+# 陌生领域速通｜Topic Research & Learning
+
+Get up to speed on a new topic through its history, competing approaches, expert debates, and practical experience.
 
 很多人问我为什么学各种领域都这么快，所以我把核心技巧开源出来。这个 skill 帮你给陌生的技术、行业、学科或概念体系画一张地图：它怎么发展到今天，有哪些路线，专家在争什么，实际干这行的人又怎么看。先看懂来龙去脉，再决定自己往哪钻。
 
@@ -46,8 +48,8 @@ git clone https://github.com/ruodou233/domain-explorer.git ~/.claude/skills/doma
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：AI 写的中文一眼就能看出来？逐条找出 AI 味、给出具体修改建议，让文章、讲稿和文案读起来像你写的。
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案<br>Plan product requirements and MVP scope, then produce a development spec with milestones and acceptance criteria.
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：AI 写的中文一眼就能看出来？逐条找出 AI 味、给出具体修改建议，让文章、讲稿和文案读起来像你写的。<br>Review AI-written Chinese and suggest edits to remove formulaic phrasing while preserving the author's voice.
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 
